@@ -12,15 +12,3 @@ The Power of Plots
 - A line plot of time point versus tumor volume for a single mouse treated with Capomulin
 
 - A scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen. Additionally, show the calculation of the correlation coefficient and linear regression model and plot this linear regression model on top of the scatter plot.
-
-Observations and Insights: 250 mice identified with squamous cell carcinoma (SCC) tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured.
-
-Of the drug regimens used, Capomulin and Ramicane were the treatments seen in mice with the lowest average tumor volume whereas Ketapril and Naftisol regimens had the highest average of tumor volume.
-
-The distribution of data of the four treatment regmines of Capomulin, Ramicane, Infubinol, and Ceftamin show that Ramicane had the lowest tumor volume data distribution compared to Capomulin, whereas Infubinol had the highest tumor volume data distribution. It should be noted that there was an outlier in the Infubinol treatment where tumor volume was low for one subject.
-
-The correlation coefficient between both mouse weight and tumor volume is 0.84 indicating that the strength of this correlation is strong. This would mean that mouse weight has an influence on tumor volume.
-
-Treatment Regimens Capomulin and Ramicane had more opportunities to be used compared to Propovia, this may mean that Capomulin and Ramicane subjects lived longer than Propovia subjects.
-
-Overall, Ramicane is the treatment regimen comparable to Capomulin in reducing the tumor volume of squamous cell carcinoma (SCC) in mice.-
