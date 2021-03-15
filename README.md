@@ -1,7 +1,7 @@
 # matplotlib-challenge
 The Power of Plots
 
-##The final report will include the following below:
+## The final report will include the following below:
 
 - A summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen
 
